@@ -16,12 +16,13 @@ li {
 }
 
 a {
-  color: #2980B9;
+  color: #E11280;
+  text-decoration: none;
   font-size: 16px;
 }
 
 a:hover {
-  color: #E74C3C;
+  text-decoration: underline;
 }
 
 .container {
